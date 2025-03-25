@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Krupal Tisgaonkar. Go to my <a href = "https://krupaltisgaonkar.github.io">portfolio</a> to learn more about who I am.
 
 <!--
 **krupaltisgaonkar/krupaltisgaonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
